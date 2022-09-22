@@ -81,8 +81,17 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['Psych Engine Android'],
+			['Android Port'],
 			['Saw (M.A. Jigsaw)',	'saw',				'Main Programmer of Psych Engine Android',					'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 	'F73838'],
+			['Asbel',	'asbel',				'Scarlet Melopoeia Android Port',					'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 	'F73838'],
+			[''],
+			['TEAM OF SCARLET MELOPOEIA'],
+			['Blusagi',	'bluu',				'Creator of most of the Mod's stuff',					'https://twitter.com/bluusagi370', 	'F73838'],
+			['TBMwehster',	'mweh',				'Design Assistant/Story Mode Menu Drawings',					'https://twitter.com/TBmwehster', 	'F73838'],
+			['C3GA',	'c3ga',				'Beta Tester (WARNING: 18+ ACCOUNT!)',					'https://twitter.com/SStupidcat', 	'F73838'],
+			['mat_zeus',	'matt',				'Beta Tester (WARNING: 18+ ACCOUNT!)',					'https://twitter.com/mat_zeus', 	'F73838'],
+            ['Disfelb',	'disfelb',				'Beta Tester/COLLAB Composer for Funky Patrol',					'https://twitter.com/disfelb16', 	'F73838'],
+            ['Scarlet Wind',	'cinn',				'Contributor',					'https://twitter.com/winds_o_scarlet', 	'F73838'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
